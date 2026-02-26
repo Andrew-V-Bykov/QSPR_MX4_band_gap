@@ -2,7 +2,7 @@
 
 ## Andrei V. Bykov, Andrei V. Shevelkov
 
-#### <i>Lomonosov Moscow State University, Department of Chemistry, Moscow, Russia</i>
+### <i>Lomonosov Moscow State University, Department of Chemistry, Moscow, Russia</i>
 
 ## Abstract
 
