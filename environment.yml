@@ -1,0 +1,22 @@
+name: main
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy<2
+  - pandas
+  - scipy
+  - matplotlib
+  - plotly
+  - jupyterlab
+  - jupyter
+  - openpyxl
+  - xlrd
+  - xgboost
+  - optuna
+  - statsmodels
+  - shap
+  - pymatgen
+  - pip
+  - pip:
+      - kaleido
