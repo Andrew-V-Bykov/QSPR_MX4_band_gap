@@ -14,12 +14,19 @@ Vast structural diversity and remarkable optoelectronic properties of organic-in
 
 This repository accompanies the manuscript:
 
+> **Curated Dataset, Structure–Property Relationships, and Machine Learning Prediction of Band Gaps for One-Dimensional Bismuth(III) and Antimony(III) Halides**<br>
+> *Andrei V. Bykov, Andrei V. Shevelkov*<br>
+> Chemistry of Materials, 2026, ASAP<br>
+> DOI: [10.1021/acs.chemmater.6c00619](https://doi.org/10.1021/acs.chemmater.6c00619)
+
+If you use this code or dataset in your research, please cite the above publication.
+
+Preprint:
+
 > **Curated Dataset, Structure–Property Relationships and Machine Learning Prediction of Band Gaps for One-Dimensional Bismuth(III) and Antimony(III) Halides**<br>
 > *Andrei V. Bykov, Andrei V. Shevelkov*<br>
 > ChemRxiv, 2026<br>
 > DOI: [10.26434/chemrxiv.15000472/v1](https://doi.org/10.26434/chemrxiv.15000472/v1)
-
-If you use this code or dataset in your research, please cite the above publication.
 
 ## 📂 Repository Structure
 
